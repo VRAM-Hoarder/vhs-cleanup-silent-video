@@ -1,0 +1,10 @@
+[project]
+name = "vhs-cleanup-silent-video"
+description = "Deletes the redundant silent video file written by ComfyUI-VideoHelperSuite's Video Combine node when an audio track is muxed in."
+version = "1.0.0"
+license = { file = "LICENSE" }
+
+[tool.comfy]
+PublisherId = "VRAM-Hoarder"
+DisplayName = "VHS Cleanup Silent Video"
+Icon = ""
